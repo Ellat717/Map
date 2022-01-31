@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+.text {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%) rotate(0deg);
+    width: 86px;
+    height: 25px;
+}
