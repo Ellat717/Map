@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* CSS Document */
+.rotate270 {
+position: absolute;
+top: 50%;
+right: 100%; transform: translate(100%,-50%) rotate(270deg)
+}
