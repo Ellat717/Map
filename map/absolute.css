@@ -1,7 +1,0 @@
-@charset "UTF-8";
-/* CSS Document */
-div.absolute {
-  position: absolute;
-top: 0%;
-right: 50%; transform: translate(50%,50%) rotate(0deg)
-}

@@ -1,7 +1,0 @@
-@charset "UTF-8";
-/* CSS Document */
-.rotate180 {
-position: absolute;
-top: 100%;
-right: 50%; transform: translate(50%,-150%) rotate(180deg)
-}
